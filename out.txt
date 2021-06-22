@@ -1,0 +1,1 @@
+start.bat: line 4: REG: command not found
